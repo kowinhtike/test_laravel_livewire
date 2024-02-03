@@ -14,7 +14,11 @@
 
     {{-- @livewire("test") --}}
 
-    <livewire:HelloWorld/>
+    {{-- <livewire:HelloWorld/> --}}
+
+    @livewire('WireForm')
+
+    
     
     @livewireScripts
 </body>
