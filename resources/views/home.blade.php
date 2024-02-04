@@ -16,8 +16,10 @@
 
     {{-- <livewire:HelloWorld/> --}}
 
-    @livewire('WireForm')
+    {{-- https://www.youtube.com/watch?v=Tlj8VBeEDdY --}}
+    {{-- @livewire('WireForm') --}}
 
+    @livewire('StoreStudent')
     
     
     @livewireScripts
